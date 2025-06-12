@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="Name">Amelia Cortez</string>
+    <string name="jobdescription">Reluctant Android Developer</string>
+    <string name="phonenumber">989.482.1723</string>
+    <string name="email">corte1al@gmail.com</string>
+    <string name="githubusername">floatingparanoia</string>
+</resources>
